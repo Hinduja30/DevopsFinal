@@ -22,21 +22,21 @@ function Footer() {
                 <i className="fab fa-facebook"></i>
               </a>
               <a
-                href="https://www.linkedin.com/in/junaid-qureshi-dvdvs/"
+                href="https://www.linkedin.com/in/junaid-qureshi-34a180194/"
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 <i className="fab fa-linkedin"></i>
               </a>
               <a
-                href="https://twitter.com/dsvdsv/"
+                href="https://twitter.com/Junaid084869/"
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 <i className="fab fa-twitter"></i>
               </a>
               <a
-                href="https://github.com/developer-dsvdsv"
+                href="https://github.com/developer-junaid"
                 rel="noopener noreferrer"
                 target="_blank"
               >
